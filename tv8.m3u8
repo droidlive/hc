@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn502.freebroadcast.vip/tv8720.m3u8?tkn=05z3tcal6qiZ10a0pu_rBw&tms=1762538423&hst=tv.vin&ip=212.68.34.228&utkn=9ec67f8697d2ab5ab02ff749390c2baf
+https://cdn506.freebroadcast.vip/tv8720.m3u8?tkn=y41QKZUcEPUFhZUKWVvYNA&tms=1762549225&hst=tv.vin&ip=212.68.34.228&utkn=9ec67f8697d2ab5ab02ff749390c2baf
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn502.freebroadcast.vip/tv8.m3u8?tkn=05z3tcal6qiZ10a0pu_rBw&tms=1762538423&hst=tv.vin&ip=212.68.34.228&utkn=9ec67f8697d2ab5ab02ff749390c2baf
+https://cdn506.freebroadcast.vip/tv8.m3u8?tkn=y41QKZUcEPUFhZUKWVvYNA&tms=1762549225&hst=tv.vin&ip=212.68.34.228&utkn=9ec67f8697d2ab5ab02ff749390c2baf
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn502.freebroadcast.vip/tv8360.m3u8?tkn=05z3tcal6qiZ10a0pu_rBw&tms=1762538423&hst=tv.vin&ip=212.68.34.228&utkn=9ec67f8697d2ab5ab02ff749390c2baf
+https://cdn506.freebroadcast.vip/tv8360.m3u8?tkn=y41QKZUcEPUFhZUKWVvYNA&tms=1762549225&hst=tv.vin&ip=212.68.34.228&utkn=9ec67f8697d2ab5ab02ff749390c2baf
