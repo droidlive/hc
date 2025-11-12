@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
-https://cdn505.tv.vin/tv8720.m3u8?tkn=0iMPiAX5JPtKEAZzZ8nGHA&tms=1762952424&hst=tv.vin&ip=212.68.34.228&utkn=9ec67f8697d2ab5ab02ff749390c2baf
+https://cdn503.tv.vin/tv8720.m3u8?tkn=9RL5gHpqaK-QF2YwfH01jw&tms=1762959625&hst=tv.vin&ip=212.68.34.228&utkn=9ec67f8697d2ab5ab02ff749390c2baf
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,CODECS="avc1.42c01e,mp4a.40.2",NAME="480p"
-https://cdn505.tv.vin/tv8.m3u8?tkn=0iMPiAX5JPtKEAZzZ8nGHA&tms=1762952424&hst=tv.vin&ip=212.68.34.228&utkn=9ec67f8697d2ab5ab02ff749390c2baf
+https://cdn503.tv.vin/tv8.m3u8?tkn=9RL5gHpqaK-QF2YwfH01jw&tms=1762959625&hst=tv.vin&ip=212.68.34.228&utkn=9ec67f8697d2ab5ab02ff749390c2baf
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",NAME="360p"
-https://cdn505.tv.vin/tv8360.m3u8?tkn=0iMPiAX5JPtKEAZzZ8nGHA&tms=1762952424&hst=tv.vin&ip=212.68.34.228&utkn=9ec67f8697d2ab5ab02ff749390c2baf
+https://cdn503.tv.vin/tv8360.m3u8?tkn=9RL5gHpqaK-QF2YwfH01jw&tms=1762959625&hst=tv.vin&ip=212.68.34.228&utkn=9ec67f8697d2ab5ab02ff749390c2baf
